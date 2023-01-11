@@ -19,7 +19,7 @@
 | Проект по сервису для чтения книг по подписке | *Исследование направлено* на разработку предложения нового продукта в сервисе для чтения книг по подписке | Python, Pandas, PostgreSQL, SQLAlchemy | [books_sql][14] |
 | E-commerce. Выявление профилей потребителей | *Целью исследования* является анализ пользовательского опыта в интернет-магазине товаров для дома и быта «Пока все ещё тут» для увеличения продаж и создания индивидуального подхода к потребителю | Python, Pandas, Numpy, PyMystem3, Matplotlib, Seaborn, Scipy, Tableau, предобработка данных, лемматизация, классификация, проверка статистических гипотез, продуктовые метрики, визуализация данных, построение дашбордов | [customers_profiles][15]
 
-[1]:https://github.com/tsladkova/Projects_YandexPracticum/tree/music_project
+[1]:https://github.com/mchashchukhin/praktikum/tree/main/big_cities_music
 [2]:https://github.com/tsladkova/Projects_YandexPracticum/tree/bank_clients
 [3]:https://github.com/tsladkova/Projects_YandexPracticum/tree/apartments_project
 [4]:https://github.com/tsladkova/Projects_YandexPracticum/tree/telekom_project
